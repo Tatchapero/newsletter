@@ -4,7 +4,7 @@
 }
 
 html {
-    background: url(images/pexels-tirachard-kumtanom-112571-733856.jpg);
+    background: url(../images/pexels-tirachard-kumtanom-112571-733856.jpg);
     background-size: cover;
     max-height: 1024px;
     background-position: top center;
@@ -133,7 +133,7 @@ h1 {
 
 @media (max-width: 640px) {
     html {
-        background: url(images/pexels-tirachard-kumtanom-112571-733856-small.jpg);
+        background: url(../images/pexels-tirachard-kumtanom-112571-733856-small.jpg);
         background-position: top center;
         background-repeat: no-repeat;
     }
